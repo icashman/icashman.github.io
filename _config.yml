@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygmentize
+gems:
+    - jekyll-paginate
+    - jekyll-gist
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            icashman
+tagline:          'On the infosec blue team.'
+description:      'The personal website of <a href="https://twitter.com/blueteamian" target="_blank">@blueteamian</a>.'
+url:              http://icashman.github.io
+baseurl:          /
+
+author:
+  name:           'Ian Cashman'
+  url:            https://twitter.com/blueteamian
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/icashman/
